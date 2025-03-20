@@ -1,0 +1,21 @@
+#map { 
+    height: 500px; 
+    width: 100%; 
+}
+
+#emergency-btn, #distress-message { 
+    margin: 10px; 
+    padding: 10px; 
+    border: none; 
+    cursor: pointer; 
+}
+
+#emergency-btn {
+    background-color: red; 
+    color: white;
+}
+
+#distress-message {
+    background-color: blue; 
+    color: white;
+}
